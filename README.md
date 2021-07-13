@@ -7,4 +7,4 @@
     4. What is the most expensive commodity in total?
     5. What is the cheapest commodity in total?
     6. What was the most expensive commodity each year?
-* You can also find these notebooks on [my kaggle page](https://www.kaggle.com/qqq1112/code).
+* You can also find these notebooks on [my Kaggle page](https://www.kaggle.com/qqq1112/code).
