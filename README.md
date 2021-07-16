@@ -7,4 +7,4 @@
     4. What is the most expensive commodity in total?
     5. What is the cheapest commodity in total?
     6. What was the most expensive commodity each year?
-* You can also find these notebooks on Kaggle in [R](https://www.kaggle.com/qqq1112/commodity-prices-in-usa-in-r) and in [Python](https://www.kaggle.com/qqq1112/commodity-prices-in-usa-in-python). The medium post about it is [here](https://medium.com/@oyku99tasci/a-data-analysis-of-commodity-prices-in-usa-in-python-987d958d09c1)
+* You can also find these notebooks on Kaggle in [R](https://www.kaggle.com/qqq1112/commodity-prices-in-usa-in-r) and in [Python](https://www.kaggle.com/qqq1112/commodity-prices-in-usa-in-python). The medium post about it is [here](https://medium.com/@oyku99tasci/a-data-analysis-of-commodity-prices-in-usa-in-python-987d958d09c1).
